@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kasimtt
-- 👀 I’m interested in  python ,c,java
-- 🌱 I’m currently learning python
+- 👀 I’m interested in  python,java, c#
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on web design and development
 - 📫 You can be contacted by the e-mail on my profile
 <!---
